@@ -1,5 +1,5 @@
 # Priorização Comercial por Probabilidade de Conversão (R1 → R2)
-![Capa do projeto](assets/cover.png)
+![Capa do projeto](assets/Imagem_Regressao.png)
 
 Uso de modelagem estatística para identificar, entre os negócios que chegaram à primeira reunião, quais têm maior chance real de avançar para a segunda — e transformar essa leitura em priorização prática para o time comercial.
 
