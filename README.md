@@ -85,9 +85,11 @@ Essa leitura permitiu ao comercial distribuir esforço de forma mais inteligente
 ## Estrutura do repositório
 
 ```
-├── notebooks/
-│   └── 2f-modelagem-estatistica-r1-r2.ipynb   # Notebook completo com código e análise
+├── assets/
+│   └── Imagem_Regressao.png
+├── 2f_modelagem_estatistica_r1_r2.ipynb
 ├── README.md
+└── requirements.txt
 ```
 
 ---
